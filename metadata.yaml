@@ -1,0 +1,44 @@
+_repo: The-Master-of-ApplebyA-Novel-Tale-Concerning-Itself-in-Part-with-the-Great-Struggle-in-the-Tw__17690
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Thulstrup, Thure de
+    aliases:
+    - Thulstrup, T. de (Thure de)
+    - De Thulstrup, Thure
+    birthdate: 1848
+    deathdate: &id001 1930
+    gutenberg_agent_id: '38324'
+    url: http://www.gutenberg.org/2009/agents/38324
+covers:
+- cover_type: archival
+  image_path: 17690-h/images/cover-tb.jpg
+creator:
+  author:
+    agent_name: Lynde, Francis
+    birthdate: 1856
+    deathdate: *id001
+    gutenberg_agent_id: '2626'
+    url: http://www.gutenberg.org/2009/agents/2626
+description: ''
+gutenberg_issued: '2006-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'North Carolina -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'South Carolina -- Fiction'
+- !lcsh 'Love stories'
+title: 'The Master of Appleby
+
+  A Novel Tale Concerning Itself in Part with the Great Struggle in the Two Carolinas;
+  but Chiefly with the Adventures Therein of Two Gentlemen Who Loved One and the Same
+  Lady'
+url: http://www.gutenberg.org/ebooks/17690
