@@ -7,7 +7,7 @@ contributor:
     - Thulstrup, T. de (Thure de)
     - De Thulstrup, Thure
     birthdate: 1848
-    deathdate: &id001 1930
+    deathdate: 1930
     gutenberg_agent_id: '38324'
     url: http://www.gutenberg.org/2009/agents/38324
 covers:
@@ -17,10 +17,12 @@ creator:
   author:
     agent_name: Lynde, Francis
     birthdate: 1856
-    deathdate: *id001
+    deathdate: 1930
     gutenberg_agent_id: '2626'
     url: http://www.gutenberg.org/2009/agents/2626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17690#The-Master-of-ApplebyA-Novel-Tale-Concerning-Itself-in-Part-with-the-Great-Struggle-in-the-Tw_
 gutenberg_issued: '2006-02-06'
 gutenberg_type: Text
 identifiers:
